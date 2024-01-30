@@ -1,0 +1,62 @@
+/*@font-face {*/
+/*    font-family: FuturaFuturisC;*/
+/*    font-style: normal;*/
+/*    font-weight: 700;*/
+/*    font-display: swap;*/
+/*    src: url("../public/fonts/futurisc-bold.ttf")*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: FuturaFuturisC;*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*    font-display: swap;*/
+/*    src: url("../public/fonts/Futurafuturisc.ttf")*/
+/*}*/
+
+
+body {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0;
+    background: #09090C;
+    color: white;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+input {
+    margin: 0;
+    padding: 0;
+}
+
+
+button {
+    cursor: pointer;
+    margin: 0;
+    font-family: FuturaFuturisC, sans-serif;
+    border: none;
+    padding: 0;
+}
+
+input:focus {
+    margin: 0;
+    outline: none;
+}
+
