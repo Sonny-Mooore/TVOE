@@ -120,17 +120,17 @@
         "duration": "43 минуты"
       },
       {
-        "image": "/images/about/serials/IMG-1.png",
+        "image": "/images/serial/serials/IMG-1.png",
         "number": "2",
         "duration": "41 минуты"
       },
       {
-        "image": "/images/about/serials/IMG-2.png",
+        "image": "/images/serial/serials/IMG-2.png",
         "number": "3",
         "duration": "38 минуты"
       },
       {
-        "image": "/images/about/serials/IMG-2.png",
+        "image": "/images/serial/serials/IMG-2.png",
         "number": "4",
         "duration": "41 минуты"
       }
@@ -148,35 +148,35 @@
       "content": [
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-1.png"
+          "movieCard": "/images/serial/catalog/movieCard-1.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-2.png"
+          "movieCard": "/images/serial/catalog/movieCard-2.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-3.png"
+          "movieCard": "/images/serial/catalog/movieCard-3.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-5.png"
+          "movieCard": "/images/serial/catalog/movieCard-5.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-6.png"
+          "movieCard": "/images/serial/catalog/movieCard-6.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-3.png"
+          "movieCard": "/images/serial/catalog/movieCard-3.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-2.png"
+          "movieCard": "/images/serial/catalog/movieCard-2.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/about/catalog/movieCard-1.png"
+          "movieCard": "/images/serial/catalog/movieCard-1.png"
         }
       ]
     },
