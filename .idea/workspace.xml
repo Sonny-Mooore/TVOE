@@ -5,101 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4853a9ad-e72b-4f84-b3d7-cef1a1f65cad" name="Changes" comment="home page done">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Home/Elements.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Home/MoviesSwiper/MoviesSwiper.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Home/TopMoviesSwiper/TopMoviesSwiper.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Serial/Elements.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Serial/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Serial/SerialSwiper/SerialSwiper.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/UI/CatalogSwiper/CatalogSwiper.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/UI/Main/Main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/UI/MovieButton/MovieButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/UI/NavMenu/NavMenu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/UI/Wrapper/Wrapper.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/IFooterContent/IFooter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/IHomeContent/IHome.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/ISerialContent/ISerial.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serial/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/serial/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/TTNormsPro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/TTNormsPro-ExtraBlack.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/TTNormsPro-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/TTNormsPro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/10.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/NumbersActive/9.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/indiana-johns-title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/indiana-johns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/newSerials/Card-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/newSerials/Card-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/newSerials/Card-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/newSerials/Card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/newSerials/wednesday.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topMovies/IMG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-10.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-9.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/live.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/navMenu/navButtons/tv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/attention.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/catalog/movieCard-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/serials/IMG-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/serials/IMG-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/serials/IMG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/wednesday-title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serial/wednesday.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/content.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +125,7 @@
       <workItem from="1706553428224" duration="597000" />
       <workItem from="1706562454290" duration="10366000" />
       <workItem from="1706616156063" duration="5146000" />
-      <workItem from="1706632911788" duration="9741000" />
+      <workItem from="1706632911788" duration="10149000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <option name="closed" value="true" />
@@ -229,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706271789561</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="home page done">
+      <option name="closed" value="true" />
+      <created>1706648690640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706648690640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
