@@ -4,7 +4,6 @@ import 'swiper/css';
 import styled from "styled-components";
 import Image from "next/image";
 import {FC} from "react";
-import {useRouter} from "next/navigation";
 
 
 const Root = styled.div`
@@ -49,11 +48,6 @@ interface IProps {
 }
 
 export const TopMoviesSwiper: FC<IProps> = ({movies}) => {
-
-    const router = useRouter()
-
-    const handleMovieOpen = () => router.push("/serial")
-
 
     return (
         <Root id={'topMovies-Root'}>

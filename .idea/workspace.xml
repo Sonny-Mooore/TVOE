@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4853a9ad-e72b-4f84-b3d7-cef1a1f65cad" name="Changes" comment="next images fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Home/Elements.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Home/Elements.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Home/TopMoviesSwiper/TopMoviesSwiper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Home/TopMoviesSwiper/TopMoviesSwiper.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Serial/SerialSwiper/SerialSwiper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Serial/SerialSwiper/SerialSwiper.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/UI/MovieButton/MovieButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/UI/MovieButton/MovieButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/UI/NavMenu/NavMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/UI/NavMenu/NavMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/UI/Wrapper/Wrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/UI/Wrapper/Wrapper.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/serial/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/serial/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/topNumbers/1-10.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/home/topNumbers/1-10.svg" afterDir="false" />
-    </list>
+    <list default="true" id="4853a9ad-e72b-4f84-b3d7-cef1a1f65cad" name="Changes" comment="TopMoviesSwiper fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +125,7 @@
       <workItem from="1706616156063" duration="5146000" />
       <workItem from="1706632911788" duration="10149000" />
       <workItem from="1706648918339" duration="762000" />
-      <workItem from="1706688096529" duration="3774000" />
+      <workItem from="1706688096529" duration="4132000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <option name="closed" value="true" />
@@ -178,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706649666609</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TopMoviesSwiper fix">
+      <option name="closed" value="true" />
+      <created>1706705522394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706705522394</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +196,7 @@
     <MESSAGE value="1 commit" />
     <MESSAGE value="home page done" />
     <MESSAGE value="next images fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="next images fix" />
+    <MESSAGE value="TopMoviesSwiper fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="TopMoviesSwiper fix" />
   </component>
 </project>
