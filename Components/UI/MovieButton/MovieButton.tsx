@@ -11,7 +11,7 @@ interface IMovieButton {
     opacity?: string
 }
 
-const setDisplayActive = ({active}: IMovieButton) => active ? buttonActive : buttonInactive
+const setBackgroundAccent = ({active}: IMovieButton) => active ? buttonActive : buttonInactive
 
 export const MovieButton = styled.button<IMovieButton>`
   display: flex;
@@ -22,7 +22,7 @@ export const MovieButton = styled.button<IMovieButton>`
   align-items: center;
   gap: 8px;
   border-radius: 16px;
-  background: ${setDisplayActive};
+  background: ${setBackgroundAccent};
   backdrop-filter: blur(10px);
   color: #FFF;
   text-align: center;
@@ -33,7 +33,7 @@ export const MovieButton = styled.button<IMovieButton>`
 
   ${({opacity}) => opacity && `
         &:hover {
-         opacity: 0.8;
+            background: rgb(253, 253, 253, 0.3);
       }
   `}
 
