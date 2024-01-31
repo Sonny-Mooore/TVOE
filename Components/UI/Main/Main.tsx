@@ -7,7 +7,6 @@ const isPaddingDisabled = ({padding}: IProps): string => padding ? "0" : "90px 0
 
 const Root = styled.main<IProps>`
   position: relative;
-  //width: 100%;
   overflow: hidden;
   padding: ${isPaddingDisabled};
 `;

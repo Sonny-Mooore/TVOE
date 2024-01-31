@@ -18,7 +18,7 @@ const Movie = styled.div`
   flex-direction: row;
   align-items: center;
   cursor: pointer;
-  gap: -20px;
+  gap: 30px;
 
 `
 export const MovieCard = styled.div`
@@ -26,9 +26,7 @@ export const MovieCard = styled.div`
   z-index: 1;
   margin: 0 0 0 -70px;
   transition: all .4s ease;
-
-  //&:
-
+  
   &:hover {
     transform: scale(1.03);
   }

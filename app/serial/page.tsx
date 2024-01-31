@@ -26,7 +26,7 @@ import favorite from '@/public/images/serial/favorite.png';
 import content from '@/assets/content.json'
 
 import {SerialSwiper} from "@/Components/Serial/SerialSwiper/SerialSwiper";
-import {CatalogSwiper} from "@/Components/UI/CatalogSwiper/CatalogSwiper";
+import {CatalogSwiper} from "@/Components/Serial/CatalogSwiper/CatalogSwiper";
 import Footer from "@/Components/Serial/Footer/Footer";
 
 

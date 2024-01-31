@@ -12,8 +12,6 @@ export const MovieImage = styled.div`
   height: 800px;
   width: 100%;
   display: flex;
-  //flex-direction: row;
-  //align-items: center;
   justify-content: center;
 `;
 export const MovieImageContainer = styled.div`
@@ -35,7 +33,6 @@ export const Container = styled.div<Container>`
   position: relative;
   display: flex;
   align-items: start;
-  //width: fit-content;
   flex-direction: ${({direction}) => direction || "column"};
   gap: ${({gap}) => gap || 0}px;
   justify-content: center;
