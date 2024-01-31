@@ -7,7 +7,8 @@ const buttonInactive: string = 'var(--gradient-white-50, linear-gradient(180deg,
 
 interface IMovieButton {
     active?: string
-    hover?: string | boolean
+    hover?: string
+    opacity?: string
 }
 
 const setDisplayActive = ({active}: IMovieButton) => active ? buttonActive : buttonInactive
@@ -30,6 +31,11 @@ export const MovieButton = styled.button<IMovieButton>`
   line-height: 32px;
   transition: all linear 0.3s;
 
+  ${({opacity}) => opacity && `
+        &:hover {
+         opacity: 0.8;
+      }
+  `}
 
   ${({hover}) => hover && `
         &:hover {

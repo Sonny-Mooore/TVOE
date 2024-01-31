@@ -160,6 +160,10 @@
         },
         {
           "rating": "9,1",
+          "movieCard": "/images/serial/catalog/movieCard-4.png"
+        },
+        {
+          "rating": "9,1",
           "movieCard": "/images/serial/catalog/movieCard-5.png"
         },
         {
@@ -168,15 +172,11 @@
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/serial/catalog/movieCard-3.png"
+          "movieCard": "/images/serial/catalog/movieCard-7.png"
         },
         {
           "rating": "9,1",
-          "movieCard": "/images/serial/catalog/movieCard-2.png"
-        },
-        {
-          "rating": "9,1",
-          "movieCard": "/images/serial/catalog/movieCard-1.png"
+          "movieCard": "/images/serial/catalog/movieCard-7.png"
         }
       ]
     },

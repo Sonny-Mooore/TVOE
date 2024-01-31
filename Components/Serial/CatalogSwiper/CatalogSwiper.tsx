@@ -66,7 +66,7 @@ export const CatalogSwiper: FC<IProps> = ({cards}) => {
                 navigation={true}
                 style={{overflow: 'unset'}}
                 slidesPerView={6}
-                spaceBetween={80}>
+                spaceBetween={40}>
                 {cards.map((item: any, index: number) => {
                     return (
                         <SwiperSlide key={index}>

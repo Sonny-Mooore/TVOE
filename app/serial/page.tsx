@@ -63,7 +63,7 @@ const Serial: FC = () => {
                         убийцу и раскрыть тайну родителей.
                     </MovieDecription>
                     <MovieButtonContainer>
-                        <MovieButton active={"true"}>Смотреть</MovieButton>
+                        <MovieButton opacity={"true"} active={"true"}>Смотреть</MovieButton>
                         <MovieButton hover={"true"}>Трейлер</MovieButton>
                         <MovieButton hover={"true"}>
                             <Image alt={'icon'} src={like}/>

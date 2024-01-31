@@ -6,6 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="4853a9ad-e72b-4f84-b3d7-cef1a1f65cad" name="Changes" comment="next image svg fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Serial/CatalogSwiper/CatalogSwiper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Serial/CatalogSwiper/CatalogSwiper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/UI/MovieButton/MovieButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/UI/MovieButton/MovieButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/serial/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/serial/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/content.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/content.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/home/NumbersActive/9.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +141,7 @@
       <workItem from="1706616156063" duration="5146000" />
       <workItem from="1706632911788" duration="10149000" />
       <workItem from="1706648918339" duration="762000" />
-      <workItem from="1706688096529" duration="5759000" />
+      <workItem from="1706688096529" duration="6703000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <option name="closed" value="true" />
@@ -201,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706708214896</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="next image svg fix">
+      <option name="closed" value="true" />
+      <created>1706710143350</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706710143350</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
