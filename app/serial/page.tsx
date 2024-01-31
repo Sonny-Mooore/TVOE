@@ -64,11 +64,11 @@ const Serial: FC = () => {
                     </MovieDecription>
                     <MovieButtonContainer>
                         <MovieButton active={"true"}>Смотреть</MovieButton>
-                        <MovieButton>Трейлер</MovieButton>
-                        <MovieButton>
+                        <MovieButton hover={"true"}>Трейлер</MovieButton>
+                        <MovieButton hover={"true"}>
                             <Image alt={'icon'} src={like}/>
                         </MovieButton>
-                        <MovieButton>
+                        <MovieButton hover={"true"}>
                             <Image alt={'icon'} src={favorite}/>
                         </MovieButton>
                     </MovieButtonContainer>

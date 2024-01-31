@@ -42,7 +42,7 @@ const Home: FC = () => {
                                 </MovieDecription>
                                 <Container direction={'row'} gap={24}>
                                     <MovieButton active={"true"}>Смотреть</MovieButton>
-                                    <MovieButton>О фильме</MovieButton>
+                                    <MovieButton hover={"true"}>О фильме</MovieButton>
                                 </Container>
                             </div>
                         </MovieImageContainer>

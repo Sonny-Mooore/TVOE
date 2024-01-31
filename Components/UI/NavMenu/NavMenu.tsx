@@ -50,7 +50,11 @@ export const NavMenu: FC = () => {
 
     return (
         <Root id={'navMenu'}>
-            <Image priority src={logo} alt={'logo'}/>
+            <a href={'/'}>
+                <Image priority src={logo} alt={'logo'}/>
+            </a>
+
+
             <NavContainer>
                 {navMenu.map((navLink, index) => {
                     return (

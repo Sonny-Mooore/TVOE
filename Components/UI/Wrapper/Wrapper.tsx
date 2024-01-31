@@ -4,11 +4,8 @@ import React, {FC, ReactNode} from "react";
 
 
 const Root = styled.div`
-
-  display: flex !important;
-  flex-direction: row !important;
-
-
+  display: flex ;
+  flex-direction: row ;
 `
 
 interface IProps {

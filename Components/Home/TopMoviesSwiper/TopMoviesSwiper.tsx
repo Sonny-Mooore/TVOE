@@ -26,8 +26,9 @@ export const MovieCard = styled.div`
   position: relative;
   z-index: 1;
   margin: 0 0 0 -70px;
-
   transition: all .4s ease;
+
+  //&:
 
   &:hover {
     transform: scale(1.03);
@@ -60,7 +61,7 @@ export const TopMoviesSwiper: FC<IProps> = ({movies}) => {
                 centeredSlides={false}
                 navigation={true}
                 slidesPerView={2.5}
-                style={{overflow:"unset"}}
+                style={{overflow: "unset"}}
                 spaceBetween={-40}>
                 {movies.map((topMovie: any, index: number) => (
                     <SwiperSlide key={index}>
@@ -68,6 +69,7 @@ export const TopMoviesSwiper: FC<IProps> = ({movies}) => {
                             <MovieCardNumber>
                                 <Image height={300}
                                        width={241}
+                                       layout={'responsive'}
                                        alt={'movie-image'}
                                        objectFit={'cover'}
                                        src={topMovie.movieCardNumber}/>

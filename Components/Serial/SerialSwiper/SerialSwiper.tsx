@@ -55,12 +55,15 @@ export const SerialSwiper: FC<IProps> = ({serials}) => {
                 centeredSlides={false}
                 navigation={true}
                 slidesPerView={3}
-                style={{overflow:"unset"}}
+                style={{overflow: "unset"}}
                 spaceBetween={30}>
                 {serials.map((serial: any, index: number) => (
                     <SwiperSlide key={index}>
                         <Serial>
-                            <Image height={306} width={544} alt={'serial-image'} src={serial.image}/>
+                            <Image height={306}
+                                   width={544}
+                                   alt={'serial-image'}
+                                   src={serial.image}/>
                             <SerialNumber>{serial.number} серия</SerialNumber>
                             <SerialDuration>{serial.duration}</SerialDuration>
                         </Serial>

@@ -72,8 +72,8 @@ export const TopMoviesAccent = styled.p`
   font-weight: 900;
   line-height: 1.1;
   color: #09090c;
+  padding-right: 5px;
   width: fit-content;
-  padding-right: 3px;
   -webkit-background-clip: text;
   -webkit-text-stroke: 4px transparent;
 `;
